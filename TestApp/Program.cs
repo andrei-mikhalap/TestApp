@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace TestApp
 {
@@ -11,6 +7,9 @@ namespace TestApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello from TestApp");
+            Console.WriteLine("Feature 1");
+            Console.WriteLine("Feature 1 extra");
+            Console.WriteLine("Feature 1 super extra");
             Console.ReadLine();
         }
     }
