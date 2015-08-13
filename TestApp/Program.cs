@@ -10,6 +10,7 @@ namespace TestApp
             Console.WriteLine("Feature 1");
             Console.WriteLine("Feature 1 extra");
             Console.WriteLine("Feature 1 super extra");
+            Console.WriteLine("Feature 2");
             Console.ReadLine();
         }
     }
