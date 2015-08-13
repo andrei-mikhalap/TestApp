@@ -11,6 +11,9 @@ namespace TestApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello from TestApp");
+            Console.WriteLine("Feature 1");
+            Console.WriteLine("Feature 1 extra");
+            Console.WriteLine("Feature 1 super extra");
             Console.ReadLine();
         }
     }
