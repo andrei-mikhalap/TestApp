@@ -10,9 +10,14 @@ namespace TestApp
             Console.WriteLine("Feature 1");
             Console.WriteLine("Feature 1 extra");
             Console.WriteLine("Feature 1 super extra");
+<<<<<<< HEAD
 
             Console.WriteLine("Hotfix 1");
 
+=======
+            Console.WriteLine("Feature 2");
+            Console.WriteLine("Feature 2 extra");
+>>>>>>> feature2
             Console.ReadLine();
         }
     }
